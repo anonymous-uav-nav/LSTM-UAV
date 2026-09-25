@@ -1,0 +1,526 @@
+seed,shape,method,threshold,success
+0,straight,Pure Pursuit,4.0,16.943521594684384
+0,straight,Pure Pursuit,6.0,24.25249169435216
+0,straight,Pure Pursuit,8.0,29.568106312292358
+0,straight,Pure Pursuit,10.0,33.222591362126245
+0,straight,Pure Pursuit,12.0,37.54152823920266
+0,straight,Pure Pursuit,15.0,45.51495016611295
+0,straight,Pure Pursuit,20.0,55.48172757475083
+0,straight,Line of Sight,4.0,22.92358803986711
+0,straight,Line of Sight,6.0,31.893687707641195
+0,straight,Line of Sight,8.0,39.202657807308974
+0,straight,Line of Sight,10.0,44.18604651162791
+0,straight,Line of Sight,12.0,52.159468438538205
+0,straight,Line of Sight,15.0,60.46511627906976
+0,straight,Line of Sight,20.0,72.75747508305648
+0,straight,Vector Field,4.0,9.30232558139535
+0,straight,Vector Field,6.0,9.634551495016613
+0,straight,Vector Field,8.0,9.966777408637874
+0,straight,Vector Field,10.0,9.966777408637874
+0,straight,Vector Field,12.0,12.956810631229235
+0,straight,Vector Field,15.0,22.591362126245848
+0,straight,Vector Field,20.0,34.21926910299003
+0,straight,Nonlinear Stabilization,4.0,15.282392026578073
+0,straight,Nonlinear Stabilization,6.0,21.262458471760798
+0,straight,Nonlinear Stabilization,8.0,24.916943521594686
+0,straight,Nonlinear Stabilization,10.0,26.910299003322258
+0,straight,Nonlinear Stabilization,12.0,29.900332225913623
+0,straight,Nonlinear Stabilization,15.0,34.55149501661129
+0,straight,Nonlinear Stabilization,20.0,39.8671096345515
+0,straight,Proposed AI,4.0,14.285714285714285
+0,straight,Proposed AI,6.0,16.27906976744186
+0,straight,Proposed AI,8.0,18.272425249169437
+0,straight,Proposed AI,10.0,19.93355481727575
+0,straight,Proposed AI,12.0,21.262458471760798
+0,straight,Proposed AI,15.0,23.920265780730897
+0,straight,Proposed AI,20.0,30.564784053156146
+0,circle,Pure Pursuit,4.0,10.96345514950166
+0,circle,Pure Pursuit,6.0,17.940199335548172
+0,circle,Pure Pursuit,8.0,23.25581395348837
+0,circle,Pure Pursuit,10.0,33.222591362126245
+0,circle,Pure Pursuit,12.0,42.524916943521596
+0,circle,Pure Pursuit,15.0,55.48172757475083
+0,circle,Pure Pursuit,20.0,69.76744186046511
+0,circle,Line of Sight,4.0,17.940199335548172
+0,circle,Line of Sight,6.0,28.903654485049834
+0,circle,Line of Sight,8.0,36.87707641196013
+0,circle,Line of Sight,10.0,46.51162790697674
+0,circle,Line of Sight,12.0,52.823920265780735
+0,circle,Line of Sight,15.0,59.136212624584715
+0,circle,Line of Sight,20.0,69.10299003322258
+0,circle,Vector Field,4.0,19.601328903654487
+0,circle,Vector Field,6.0,28.57142857142857
+0,circle,Vector Field,8.0,33.5548172757475
+0,circle,Vector Field,10.0,37.54152823920266
+0,circle,Vector Field,12.0,39.8671096345515
+0,circle,Vector Field,15.0,45.182724252491695
+0,circle,Vector Field,20.0,52.159468438538205
+0,circle,Nonlinear Stabilization,4.0,15.614617940199334
+0,circle,Nonlinear Stabilization,6.0,20.26578073089701
+0,circle,Nonlinear Stabilization,8.0,24.916943521594686
+0,circle,Nonlinear Stabilization,10.0,30.89700996677741
+0,circle,Nonlinear Stabilization,12.0,37.2093023255814
+0,circle,Nonlinear Stabilization,15.0,45.182724252491695
+0,circle,Nonlinear Stabilization,20.0,60.13289036544851
+0,circle,Proposed AI,4.0,6.312292358803987
+0,circle,Proposed AI,6.0,11.627906976744185
+0,circle,Proposed AI,8.0,19.269102990033225
+0,circle,Proposed AI,10.0,25.91362126245847
+0,circle,Proposed AI,12.0,30.89700996677741
+0,circle,Proposed AI,15.0,37.2093023255814
+0,circle,Proposed AI,20.0,46.51162790697674
+0,polyline,Pure Pursuit,4.0,16.943521594684384
+0,polyline,Pure Pursuit,6.0,21.59468438538206
+0,polyline,Pure Pursuit,8.0,27.57475083056478
+0,polyline,Pure Pursuit,10.0,32.89036544850498
+0,polyline,Pure Pursuit,12.0,38.53820598006645
+0,polyline,Pure Pursuit,15.0,46.51162790697674
+0,polyline,Pure Pursuit,20.0,58.80398671096345
+0,polyline,Line of Sight,4.0,22.591362126245848
+0,polyline,Line of Sight,6.0,31.22923588039867
+0,polyline,Line of Sight,8.0,38.53820598006645
+0,polyline,Line of Sight,10.0,44.18604651162791
+0,polyline,Line of Sight,12.0,51.82724252491694
+0,polyline,Line of Sight,15.0,65.78073089700996
+0,polyline,Line of Sight,20.0,83.72093023255815
+0,polyline,Vector Field,4.0,23.920265780730897
+0,polyline,Vector Field,6.0,27.57475083056478
+0,polyline,Vector Field,8.0,31.893687707641195
+0,polyline,Vector Field,10.0,34.883720930232556
+0,polyline,Vector Field,12.0,39.8671096345515
+0,polyline,Vector Field,15.0,47.50830564784053
+0,polyline,Vector Field,20.0,56.810631229235874
+0,polyline,Nonlinear Stabilization,4.0,17.940199335548172
+0,polyline,Nonlinear Stabilization,6.0,21.92691029900332
+0,polyline,Nonlinear Stabilization,8.0,28.23920265780731
+0,polyline,Nonlinear Stabilization,10.0,34.883720930232556
+0,polyline,Nonlinear Stabilization,12.0,42.857142857142854
+0,polyline,Nonlinear Stabilization,15.0,53.820598006644516
+0,polyline,Nonlinear Stabilization,20.0,63.45514950166113
+0,polyline,Proposed AI,4.0,37.87375415282392
+0,polyline,Proposed AI,6.0,44.518272425249165
+0,polyline,Proposed AI,8.0,51.162790697674424
+0,polyline,Proposed AI,10.0,54.15282392026578
+0,polyline,Proposed AI,12.0,56.810631229235874
+0,polyline,Proposed AI,15.0,61.12956810631229
+0,polyline,Proposed AI,20.0,67.44186046511628
+1,straight,Pure Pursuit,4.0,17.940199335548172
+1,straight,Pure Pursuit,6.0,22.591362126245848
+1,straight,Pure Pursuit,8.0,26.245847176079735
+1,straight,Pure Pursuit,10.0,29.568106312292358
+1,straight,Pure Pursuit,12.0,33.5548172757475
+1,straight,Pure Pursuit,15.0,39.53488372093023
+1,straight,Pure Pursuit,20.0,46.84385382059801
+1,straight,Line of Sight,4.0,21.262458471760798
+1,straight,Line of Sight,6.0,26.245847176079735
+1,straight,Line of Sight,8.0,30.564784053156146
+1,straight,Line of Sight,10.0,37.2093023255814
+1,straight,Line of Sight,12.0,42.19269102990033
+1,straight,Line of Sight,15.0,50.16611295681063
+1,straight,Line of Sight,20.0,62.12624584717608
+1,straight,Vector Field,4.0,10.631229235880399
+1,straight,Vector Field,6.0,12.29235880398671
+1,straight,Vector Field,8.0,13.2890365448505
+1,straight,Vector Field,10.0,16.943521594684384
+1,straight,Vector Field,12.0,21.59468438538206
+1,straight,Vector Field,15.0,28.57142857142857
+1,straight,Vector Field,20.0,34.883720930232556
+1,straight,Nonlinear Stabilization,4.0,13.2890365448505
+1,straight,Nonlinear Stabilization,6.0,16.943521594684384
+1,straight,Nonlinear Stabilization,8.0,20.59800664451827
+1,straight,Nonlinear Stabilization,10.0,24.58471760797342
+1,straight,Nonlinear Stabilization,12.0,28.57142857142857
+1,straight,Nonlinear Stabilization,15.0,31.561461794019934
+1,straight,Nonlinear Stabilization,20.0,37.2093023255814
+1,straight,Proposed AI,4.0,20.26578073089701
+1,straight,Proposed AI,6.0,23.25581395348837
+1,straight,Proposed AI,8.0,26.910299003322258
+1,straight,Proposed AI,10.0,29.568106312292358
+1,straight,Proposed AI,12.0,31.22923588039867
+1,straight,Proposed AI,15.0,36.544850498338874
+1,straight,Proposed AI,20.0,43.18936877076412
+1,circle,Pure Pursuit,4.0,14.285714285714285
+1,circle,Pure Pursuit,6.0,22.259136212624583
+1,circle,Pure Pursuit,8.0,30.23255813953488
+1,circle,Pure Pursuit,10.0,36.21262458471761
+1,circle,Pure Pursuit,12.0,42.19269102990033
+1,circle,Pure Pursuit,15.0,51.162790697674424
+1,circle,Pure Pursuit,20.0,65.4485049833887
+1,circle,Line of Sight,4.0,13.953488372093023
+1,circle,Line of Sight,6.0,21.262458471760798
+1,circle,Line of Sight,8.0,27.57475083056478
+1,circle,Line of Sight,10.0,36.544850498338874
+1,circle,Line of Sight,12.0,48.50498338870432
+1,circle,Line of Sight,15.0,58.139534883720934
+1,circle,Line of Sight,20.0,69.10299003322258
+1,circle,Vector Field,4.0,17.60797342192691
+1,circle,Vector Field,6.0,23.588039867109632
+1,circle,Vector Field,8.0,28.903654485049834
+1,circle,Vector Field,10.0,35.21594684385382
+1,circle,Vector Field,12.0,39.8671096345515
+1,circle,Vector Field,15.0,44.85049833887043
+1,circle,Vector Field,20.0,52.823920265780735
+1,circle,Nonlinear Stabilization,4.0,14.285714285714285
+1,circle,Nonlinear Stabilization,6.0,19.93355481727575
+1,circle,Nonlinear Stabilization,8.0,27.242524916943523
+1,circle,Nonlinear Stabilization,10.0,31.893687707641195
+1,circle,Nonlinear Stabilization,12.0,37.87375415282392
+1,circle,Nonlinear Stabilization,15.0,43.18936877076412
+1,circle,Nonlinear Stabilization,20.0,51.162790697674424
+1,circle,Proposed AI,4.0,8.305647840531561
+1,circle,Proposed AI,6.0,13.953488372093023
+1,circle,Proposed AI,8.0,19.601328903654487
+1,circle,Proposed AI,10.0,26.578073089701
+1,circle,Proposed AI,12.0,32.22591362126246
+1,circle,Proposed AI,15.0,37.54152823920266
+1,circle,Proposed AI,20.0,46.84385382059801
+1,polyline,Pure Pursuit,4.0,18.272425249169437
+1,polyline,Pure Pursuit,6.0,23.588039867109632
+1,polyline,Pure Pursuit,8.0,27.57475083056478
+1,polyline,Pure Pursuit,10.0,31.893687707641195
+1,polyline,Pure Pursuit,12.0,37.2093023255814
+1,polyline,Pure Pursuit,15.0,45.182724252491695
+1,polyline,Pure Pursuit,20.0,54.81727574750831
+1,polyline,Line of Sight,4.0,24.25249169435216
+1,polyline,Line of Sight,6.0,30.89700996677741
+1,polyline,Line of Sight,8.0,37.87375415282392
+1,polyline,Line of Sight,10.0,44.85049833887043
+1,polyline,Line of Sight,12.0,50.83056478405316
+1,polyline,Line of Sight,15.0,64.45182724252491
+1,polyline,Line of Sight,20.0,83.38870431893687
+1,polyline,Vector Field,4.0,24.58471760797342
+1,polyline,Vector Field,6.0,28.23920265780731
+1,polyline,Vector Field,8.0,33.222591362126245
+1,polyline,Vector Field,10.0,39.8671096345515
+1,polyline,Vector Field,12.0,45.84717607973422
+1,polyline,Vector Field,15.0,54.81727574750831
+1,polyline,Vector Field,20.0,61.79401993355482
+1,polyline,Nonlinear Stabilization,4.0,19.269102990033225
+1,polyline,Nonlinear Stabilization,6.0,23.25581395348837
+1,polyline,Nonlinear Stabilization,8.0,27.906976744186046
+1,polyline,Nonlinear Stabilization,10.0,37.54152823920266
+1,polyline,Nonlinear Stabilization,12.0,41.86046511627907
+1,polyline,Nonlinear Stabilization,15.0,47.50830564784053
+1,polyline,Nonlinear Stabilization,20.0,52.823920265780735
+1,polyline,Proposed AI,4.0,26.578073089701
+1,polyline,Proposed AI,6.0,30.23255813953488
+1,polyline,Proposed AI,8.0,34.883720930232556
+1,polyline,Proposed AI,10.0,40.863787375415285
+1,polyline,Proposed AI,12.0,45.182724252491695
+1,polyline,Proposed AI,15.0,49.501661129568106
+1,polyline,Proposed AI,20.0,56.14617940199336
+2,straight,Pure Pursuit,4.0,15.614617940199334
+2,straight,Pure Pursuit,6.0,18.272425249169437
+2,straight,Pure Pursuit,8.0,21.262458471760798
+2,straight,Pure Pursuit,10.0,24.25249169435216
+2,straight,Pure Pursuit,12.0,27.57475083056478
+2,straight,Pure Pursuit,15.0,31.561461794019934
+2,straight,Pure Pursuit,20.0,37.54152823920266
+2,straight,Line of Sight,4.0,24.58471760797342
+2,straight,Line of Sight,6.0,30.564784053156146
+2,straight,Line of Sight,8.0,36.87707641196013
+2,straight,Line of Sight,10.0,44.518272425249165
+2,straight,Line of Sight,12.0,51.162790697674424
+2,straight,Line of Sight,15.0,67.77408637873754
+2,straight,Line of Sight,20.0,87.70764119601328
+2,straight,Vector Field,4.0,15.946843853820598
+2,straight,Vector Field,6.0,19.93355481727575
+2,straight,Vector Field,8.0,23.588039867109632
+2,straight,Vector Field,10.0,27.242524916943523
+2,straight,Vector Field,12.0,29.900332225913623
+2,straight,Vector Field,15.0,35.21594684385382
+2,straight,Vector Field,20.0,41.52823920265781
+2,straight,Nonlinear Stabilization,4.0,16.27906976744186
+2,straight,Nonlinear Stabilization,6.0,19.601328903654487
+2,straight,Nonlinear Stabilization,8.0,24.25249169435216
+2,straight,Nonlinear Stabilization,10.0,27.57475083056478
+2,straight,Nonlinear Stabilization,12.0,33.5548172757475
+2,straight,Nonlinear Stabilization,15.0,37.54152823920266
+2,straight,Nonlinear Stabilization,20.0,42.857142857142854
+2,straight,Proposed AI,4.0,19.269102990033225
+2,straight,Proposed AI,6.0,22.259136212624583
+2,straight,Proposed AI,8.0,24.916943521594686
+2,straight,Proposed AI,10.0,28.57142857142857
+2,straight,Proposed AI,12.0,33.222591362126245
+2,straight,Proposed AI,15.0,37.87375415282392
+2,straight,Proposed AI,20.0,44.518272425249165
+2,circle,Pure Pursuit,4.0,11.960132890365449
+2,circle,Pure Pursuit,6.0,17.60797342192691
+2,circle,Pure Pursuit,8.0,27.906976744186046
+2,circle,Pure Pursuit,10.0,36.544850498338874
+2,circle,Pure Pursuit,12.0,42.857142857142854
+2,circle,Pure Pursuit,15.0,49.83388704318937
+2,circle,Pure Pursuit,20.0,62.7906976744186
+2,circle,Line of Sight,4.0,9.966777408637874
+2,circle,Line of Sight,6.0,14.285714285714285
+2,circle,Line of Sight,8.0,19.93355481727575
+2,circle,Line of Sight,10.0,26.245847176079735
+2,circle,Line of Sight,12.0,33.88704318936877
+2,circle,Line of Sight,15.0,43.85382059800664
+2,circle,Line of Sight,20.0,53.820598006644516
+2,circle,Vector Field,4.0,27.57475083056478
+2,circle,Vector Field,6.0,33.222591362126245
+2,circle,Vector Field,8.0,37.2093023255814
+2,circle,Vector Field,10.0,41.86046511627907
+2,circle,Vector Field,12.0,44.85049833887043
+2,circle,Vector Field,15.0,48.837209302325576
+2,circle,Vector Field,20.0,55.81395348837209
+2,circle,Nonlinear Stabilization,4.0,16.943521594684384
+2,circle,Nonlinear Stabilization,6.0,21.92691029900332
+2,circle,Nonlinear Stabilization,8.0,29.2358803986711
+2,circle,Nonlinear Stabilization,10.0,36.544850498338874
+2,circle,Nonlinear Stabilization,12.0,41.19601328903654
+2,circle,Nonlinear Stabilization,15.0,48.17275747508305
+2,circle,Nonlinear Stabilization,20.0,57.80730897009967
+2,circle,Proposed AI,4.0,6.312292358803987
+2,circle,Proposed AI,6.0,13.2890365448505
+2,circle,Proposed AI,8.0,20.26578073089701
+2,circle,Proposed AI,10.0,28.903654485049834
+2,circle,Proposed AI,12.0,34.55149501661129
+2,circle,Proposed AI,15.0,41.86046511627907
+2,circle,Proposed AI,20.0,52.823920265780735
+2,polyline,Pure Pursuit,4.0,21.59468438538206
+2,polyline,Pure Pursuit,6.0,26.245847176079735
+2,polyline,Pure Pursuit,8.0,31.893687707641195
+2,polyline,Pure Pursuit,10.0,38.53820598006645
+2,polyline,Pure Pursuit,12.0,44.518272425249165
+2,polyline,Pure Pursuit,15.0,58.4717607973422
+2,polyline,Pure Pursuit,20.0,79.06976744186046
+2,polyline,Line of Sight,4.0,24.58471760797342
+2,polyline,Line of Sight,6.0,30.564784053156146
+2,polyline,Line of Sight,8.0,36.87707641196013
+2,polyline,Line of Sight,10.0,44.518272425249165
+2,polyline,Line of Sight,12.0,51.162790697674424
+2,polyline,Line of Sight,15.0,67.77408637873754
+2,polyline,Line of Sight,20.0,87.70764119601328
+2,polyline,Vector Field,4.0,22.591362126245848
+2,polyline,Vector Field,6.0,26.578073089701
+2,polyline,Vector Field,8.0,30.564784053156146
+2,polyline,Vector Field,10.0,34.21926910299003
+2,polyline,Vector Field,12.0,37.87375415282392
+2,polyline,Vector Field,15.0,44.18604651162791
+2,polyline,Vector Field,20.0,51.162790697674424
+2,polyline,Nonlinear Stabilization,4.0,18.93687707641196
+2,polyline,Nonlinear Stabilization,6.0,21.59468438538206
+2,polyline,Nonlinear Stabilization,8.0,30.23255813953488
+2,polyline,Nonlinear Stabilization,10.0,35.548172757475086
+2,polyline,Nonlinear Stabilization,12.0,43.521594684385384
+2,polyline,Nonlinear Stabilization,15.0,51.162790697674424
+2,polyline,Nonlinear Stabilization,20.0,60.13289036544851
+2,polyline,Proposed AI,4.0,16.943521594684384
+2,polyline,Proposed AI,6.0,19.601328903654487
+2,polyline,Proposed AI,8.0,24.58471760797342
+2,polyline,Proposed AI,10.0,30.564784053156146
+2,polyline,Proposed AI,12.0,35.548172757475086
+2,polyline,Proposed AI,15.0,43.521594684385384
+2,polyline,Proposed AI,20.0,53.48837209302325
+3,straight,Pure Pursuit,4.0,16.943521594684384
+3,straight,Pure Pursuit,6.0,20.930232558139537
+3,straight,Pure Pursuit,8.0,25.91362126245847
+3,straight,Pure Pursuit,10.0,30.564784053156146
+3,straight,Pure Pursuit,12.0,37.87375415282392
+3,straight,Pure Pursuit,15.0,45.182724252491695
+3,straight,Pure Pursuit,20.0,57.14285714285714
+3,straight,Line of Sight,4.0,25.581395348837212
+3,straight,Line of Sight,6.0,32.22591362126246
+3,straight,Line of Sight,8.0,36.21262458471761
+3,straight,Line of Sight,10.0,44.518272425249165
+3,straight,Line of Sight,12.0,53.48837209302325
+3,straight,Line of Sight,15.0,66.44518272425249
+3,straight,Line of Sight,20.0,81.72757475083057
+3,straight,Vector Field,4.0,61.79401993355482
+3,straight,Vector Field,6.0,62.45847176079734
+3,straight,Vector Field,8.0,63.12292358803987
+3,straight,Vector Field,10.0,63.45514950166113
+3,straight,Vector Field,12.0,64.11960132890366
+3,straight,Vector Field,15.0,66.77740863787376
+3,straight,Vector Field,20.0,72.42524916943522
+3,straight,Nonlinear Stabilization,4.0,14.285714285714285
+3,straight,Nonlinear Stabilization,6.0,17.940199335548172
+3,straight,Nonlinear Stabilization,8.0,20.26578073089701
+3,straight,Nonlinear Stabilization,10.0,23.920265780730897
+3,straight,Nonlinear Stabilization,12.0,28.23920265780731
+3,straight,Nonlinear Stabilization,15.0,31.561461794019934
+3,straight,Nonlinear Stabilization,20.0,42.19269102990033
+3,straight,Proposed AI,4.0,19.601328903654487
+3,straight,Proposed AI,6.0,23.588039867109632
+3,straight,Proposed AI,8.0,26.910299003322258
+3,straight,Proposed AI,10.0,30.564784053156146
+3,straight,Proposed AI,12.0,35.548172757475086
+3,straight,Proposed AI,15.0,42.19269102990033
+3,straight,Proposed AI,20.0,47.840531561461795
+3,circle,Pure Pursuit,4.0,9.966777408637874
+3,circle,Pure Pursuit,6.0,15.614617940199334
+3,circle,Pure Pursuit,8.0,23.25581395348837
+3,circle,Pure Pursuit,10.0,31.893687707641195
+3,circle,Pure Pursuit,12.0,40.19933554817276
+3,circle,Pure Pursuit,15.0,46.51162790697674
+3,circle,Pure Pursuit,20.0,57.14285714285714
+3,circle,Line of Sight,4.0,10.96345514950166
+3,circle,Line of Sight,6.0,15.282392026578073
+3,circle,Line of Sight,8.0,23.920265780730897
+3,circle,Line of Sight,10.0,30.89700996677741
+3,circle,Line of Sight,12.0,38.205980066445186
+3,circle,Line of Sight,15.0,45.51495016611295
+3,circle,Line of Sight,20.0,56.47840531561462
+3,circle,Vector Field,4.0,10.299003322259136
+3,circle,Vector Field,6.0,15.946843853820598
+3,circle,Vector Field,8.0,20.59800664451827
+3,circle,Vector Field,10.0,25.91362126245847
+3,circle,Vector Field,12.0,31.893687707641195
+3,circle,Vector Field,15.0,37.87375415282392
+3,circle,Vector Field,20.0,46.179401993355484
+3,circle,Nonlinear Stabilization,4.0,18.6046511627907
+3,circle,Nonlinear Stabilization,6.0,26.578073089701
+3,circle,Nonlinear Stabilization,8.0,32.55813953488372
+3,circle,Nonlinear Stabilization,10.0,37.87375415282392
+3,circle,Nonlinear Stabilization,12.0,42.19269102990033
+3,circle,Nonlinear Stabilization,15.0,53.48837209302325
+3,circle,Nonlinear Stabilization,20.0,62.7906976744186
+3,circle,Proposed AI,4.0,16.611295681063122
+3,circle,Proposed AI,6.0,22.92358803986711
+3,circle,Proposed AI,8.0,28.23920265780731
+3,circle,Proposed AI,10.0,33.5548172757475
+3,circle,Proposed AI,12.0,38.205980066445186
+3,circle,Proposed AI,15.0,44.85049833887043
+3,circle,Proposed AI,20.0,55.81395348837209
+3,polyline,Pure Pursuit,4.0,16.943521594684384
+3,polyline,Pure Pursuit,6.0,21.262458471760798
+3,polyline,Pure Pursuit,8.0,26.245847176079735
+3,polyline,Pure Pursuit,10.0,31.22923588039867
+3,polyline,Pure Pursuit,12.0,38.53820598006645
+3,polyline,Pure Pursuit,15.0,45.84717607973422
+3,polyline,Pure Pursuit,20.0,56.47840531561462
+3,polyline,Line of Sight,4.0,25.581395348837212
+3,polyline,Line of Sight,6.0,32.22591362126246
+3,polyline,Line of Sight,8.0,36.21262458471761
+3,polyline,Line of Sight,10.0,44.518272425249165
+3,polyline,Line of Sight,12.0,53.48837209302325
+3,polyline,Line of Sight,15.0,66.44518272425249
+3,polyline,Line of Sight,20.0,81.72757475083057
+3,polyline,Vector Field,4.0,24.916943521594686
+3,polyline,Vector Field,6.0,30.23255813953488
+3,polyline,Vector Field,8.0,33.88704318936877
+3,polyline,Vector Field,10.0,38.53820598006645
+3,polyline,Vector Field,12.0,44.18604651162791
+3,polyline,Vector Field,15.0,51.49501661129568
+3,polyline,Vector Field,20.0,60.13289036544851
+3,polyline,Nonlinear Stabilization,4.0,18.272425249169437
+3,polyline,Nonlinear Stabilization,6.0,20.930232558139537
+3,polyline,Nonlinear Stabilization,8.0,28.903654485049834
+3,polyline,Nonlinear Stabilization,10.0,36.87707641196013
+3,polyline,Nonlinear Stabilization,12.0,40.19933554817276
+3,polyline,Nonlinear Stabilization,15.0,44.85049833887043
+3,polyline,Nonlinear Stabilization,20.0,53.820598006644516
+3,polyline,Proposed AI,4.0,24.916943521594686
+3,polyline,Proposed AI,6.0,28.57142857142857
+3,polyline,Proposed AI,8.0,30.89700996677741
+3,polyline,Proposed AI,10.0,32.22591362126246
+3,polyline,Proposed AI,12.0,34.21926910299003
+3,polyline,Proposed AI,15.0,42.19269102990033
+3,polyline,Proposed AI,20.0,52.823920265780735
+4,straight,Pure Pursuit,4.0,19.269102990033225
+4,straight,Pure Pursuit,6.0,23.920265780730897
+4,straight,Pure Pursuit,8.0,29.900332225913623
+4,straight,Pure Pursuit,10.0,33.88704318936877
+4,straight,Pure Pursuit,12.0,38.87043189368771
+4,straight,Pure Pursuit,15.0,46.179401993355484
+4,straight,Pure Pursuit,20.0,57.80730897009967
+4,straight,Line of Sight,4.0,23.588039867109632
+4,straight,Line of Sight,6.0,31.22923588039867
+4,straight,Line of Sight,8.0,39.202657807308974
+4,straight,Line of Sight,10.0,45.51495016611295
+4,straight,Line of Sight,12.0,54.15282392026578
+4,straight,Line of Sight,15.0,66.11295681063123
+4,straight,Line of Sight,20.0,85.04983388704319
+4,straight,Vector Field,4.0,11.295681063122924
+4,straight,Vector Field,6.0,13.2890365448505
+4,straight,Vector Field,8.0,15.614617940199334
+4,straight,Vector Field,10.0,16.943521594684384
+4,straight,Vector Field,12.0,18.272425249169437
+4,straight,Vector Field,15.0,23.920265780730897
+4,straight,Vector Field,20.0,29.568106312292358
+4,straight,Nonlinear Stabilization,4.0,19.93355481727575
+4,straight,Nonlinear Stabilization,6.0,23.920265780730897
+4,straight,Nonlinear Stabilization,8.0,27.57475083056478
+4,straight,Nonlinear Stabilization,10.0,32.22591362126246
+4,straight,Nonlinear Stabilization,12.0,35.880398671096344
+4,straight,Nonlinear Stabilization,15.0,41.19601328903654
+4,straight,Nonlinear Stabilization,20.0,51.49501661129568
+4,straight,Proposed AI,4.0,14.285714285714285
+4,straight,Proposed AI,6.0,17.60797342192691
+4,straight,Proposed AI,8.0,21.92691029900332
+4,straight,Proposed AI,10.0,25.581395348837212
+4,straight,Proposed AI,12.0,27.57475083056478
+4,straight,Proposed AI,15.0,30.23255813953488
+4,straight,Proposed AI,20.0,38.87043189368771
+4,circle,Pure Pursuit,4.0,16.611295681063122
+4,circle,Pure Pursuit,6.0,24.25249169435216
+4,circle,Pure Pursuit,8.0,35.548172757475086
+4,circle,Pure Pursuit,10.0,44.85049833887043
+4,circle,Pure Pursuit,12.0,50.16611295681063
+4,circle,Pure Pursuit,15.0,56.14617940199336
+4,circle,Pure Pursuit,20.0,64.78405315614619
+4,circle,Line of Sight,4.0,16.943521594684384
+4,circle,Line of Sight,6.0,24.58471760797342
+4,circle,Line of Sight,8.0,32.22591362126246
+4,circle,Line of Sight,10.0,42.524916943521596
+4,circle,Line of Sight,12.0,52.49169435215947
+4,circle,Line of Sight,15.0,58.4717607973422
+4,circle,Line of Sight,20.0,68.43853820598007
+4,circle,Vector Field,4.0,29.900332225913623
+4,circle,Vector Field,6.0,33.222591362126245
+4,circle,Vector Field,8.0,38.53820598006645
+4,circle,Vector Field,10.0,43.521594684385384
+4,circle,Vector Field,12.0,46.84385382059801
+4,circle,Vector Field,15.0,52.49169435215947
+4,circle,Vector Field,20.0,59.136212624584715
+4,circle,Nonlinear Stabilization,4.0,14.61794019933555
+4,circle,Nonlinear Stabilization,6.0,22.92358803986711
+4,circle,Nonlinear Stabilization,8.0,28.57142857142857
+4,circle,Nonlinear Stabilization,10.0,34.21926910299003
+4,circle,Nonlinear Stabilization,12.0,37.54152823920266
+4,circle,Nonlinear Stabilization,15.0,43.521594684385384
+4,circle,Nonlinear Stabilization,20.0,52.159468438538205
+4,circle,Proposed AI,4.0,12.29235880398671
+4,circle,Proposed AI,6.0,19.93355481727575
+4,circle,Proposed AI,8.0,26.910299003322258
+4,circle,Proposed AI,10.0,31.893687707641195
+4,circle,Proposed AI,12.0,36.21262458471761
+4,circle,Proposed AI,15.0,42.524916943521596
+4,circle,Proposed AI,20.0,50.498338870431894
+4,polyline,Pure Pursuit,4.0,19.93355481727575
+4,polyline,Pure Pursuit,6.0,24.25249169435216
+4,polyline,Pure Pursuit,8.0,30.23255813953488
+4,polyline,Pure Pursuit,10.0,35.21594684385382
+4,polyline,Pure Pursuit,12.0,40.863787375415285
+4,polyline,Pure Pursuit,15.0,49.501661129568106
+4,polyline,Pure Pursuit,20.0,62.45847176079734
+4,polyline,Line of Sight,4.0,23.920265780730897
+4,polyline,Line of Sight,6.0,30.89700996677741
+4,polyline,Line of Sight,8.0,38.53820598006645
+4,polyline,Line of Sight,10.0,45.84717607973422
+4,polyline,Line of Sight,12.0,53.48837209302325
+4,polyline,Line of Sight,15.0,67.44186046511628
+4,polyline,Line of Sight,20.0,86.71096345514951
+4,polyline,Vector Field,4.0,13.2890365448505
+4,polyline,Vector Field,6.0,15.946843853820598
+4,polyline,Vector Field,8.0,21.262458471760798
+4,polyline,Vector Field,10.0,26.245847176079735
+4,polyline,Vector Field,12.0,30.89700996677741
+4,polyline,Vector Field,15.0,37.2093023255814
+4,polyline,Vector Field,20.0,44.18604651162791
+4,polyline,Nonlinear Stabilization,4.0,29.900332225913623
+4,polyline,Nonlinear Stabilization,6.0,34.55149501661129
+4,polyline,Nonlinear Stabilization,8.0,41.19601328903654
+4,polyline,Nonlinear Stabilization,10.0,46.51162790697674
+4,polyline,Nonlinear Stabilization,12.0,49.83388704318937
+4,polyline,Nonlinear Stabilization,15.0,53.820598006644516
+4,polyline,Nonlinear Stabilization,20.0,64.45182724252491
+4,polyline,Proposed AI,4.0,25.91362126245847
+4,polyline,Proposed AI,6.0,34.55149501661129
+4,polyline,Proposed AI,8.0,40.863787375415285
+4,polyline,Proposed AI,10.0,45.84717607973422
+4,polyline,Proposed AI,12.0,49.501661129568106
+4,polyline,Proposed AI,15.0,54.15282392026578
+4,polyline,Proposed AI,20.0,61.79401993355482
